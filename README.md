@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NUTROLLER
-- 👀 I’m interested in Web Development, Making YouTube videos and enjoying life in general!
-- 🌱 I’m currently learning Web development and editing videos!
+- 👀 I’m interested in Web Development, C++, DSA, Making YouTube videos (sometimes) and enjoying life in general!
+- 🌱 I’m currently learning Python and C++!
 - 📫 How to reach me ...You can contact me via email or send me a message.
 
 <!---
